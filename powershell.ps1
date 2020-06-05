@@ -1,2 +1,2 @@
 get-process
-get-service
+get-service | select first 10
